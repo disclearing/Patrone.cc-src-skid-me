@@ -1,0 +1,4 @@
+name: pCore
+version: ${version}
+main: zone.potion.CorePlugin
+load: STARTUP

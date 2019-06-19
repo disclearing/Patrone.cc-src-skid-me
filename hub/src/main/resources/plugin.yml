@@ -1,0 +1,5 @@
+name: pHub
+version: ${project.version}
+main: cc.patrone.hub.Hub
+authors: [IdrizP]
+description: The Hub plugin for Patrone.

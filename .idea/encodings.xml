@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hub" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ivory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ivory/Ivory-API" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ivory/Ivory-Server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toothless/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toothless/server" charset="UTF-8" />
+  </component>
+</project>

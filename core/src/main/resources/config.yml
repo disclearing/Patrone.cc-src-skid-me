@@ -1,0 +1,20 @@
+##To be changed. This password is not accurate.
+mongo:
+  uri: mongodb://10.10.9.1:27017/potionzone
+server-name: 'na-practice-001'
+influx:
+  servername: 'na-practice-001'
+  region: 'na'
+  url: 'influx-url'
+redis:
+  host: 'localhost'
+  port: 6379
+  timeout: 2000
+  password: 'root'
+
+broadcasts:
+  enabled: true
+  delay: 60 # seconds inbetween broadcasts
+  strings:
+    - "&aAutomatic message 1"
+    - "&aAutomatic message 2"

@@ -1,0 +1,5 @@
+settings:
+  nerf-crits: false
+  practice-optimizations: true
+  disable-move-event: false
+  proxy-pipe-ping-fix: false

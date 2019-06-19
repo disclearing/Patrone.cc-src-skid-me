@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/toothless/api/api.iml" filepath="$PROJECT_DIR$/toothless/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hub/hub.iml" filepath="$PROJECT_DIR$/hub/hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pparent.iml" filepath="$PROJECT_DIR$/pparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toothless/server/server.iml" filepath="$PROJECT_DIR$/toothless/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toothless/toothless.iml" filepath="$PROJECT_DIR$/toothless/toothless.iml" />
+    </modules>
+  </component>
+</project>
